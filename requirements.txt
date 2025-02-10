@@ -1,0 +1,6 @@
+jupyter-book
+matplotlib
+numpy
+astropy
+astroquery
+ghp-import

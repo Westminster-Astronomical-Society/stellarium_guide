@@ -1,0 +1,14 @@
+# vscode files
+.vscode
+
+# Jupyter files
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Build dir
+_build/
+
