@@ -1,11 +1,15 @@
-# Welcome to your Jupyter Book
+# Stellarium User Guide and Scripting Reference
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+```{image} ./_images/cas_color.png
+:alt: Cassiopeia
+:class: dark-light
+:width: 100%
+:align: center
+```
 
-Check out the content pages bundled with this sample book to see more.
+This is a basic reference guide for Stellarium, an open-source planetarium software. It is intended to be a quick reference for users who are new to the software, as well as a reference for scripting in Stellarium. There is a comprehensive users guide available at [https://stellarium.org/](https://stellarium.org/), but this guide is intended to be a more concise reference for users who are not familiar with the software.
+
+The website has sample scripts and a scripting API reference, but there is no published guide for scripting in Stellarium. And so, this guide will give an overview of the scripting API and provide some basic examples of it's use.
 
 ```{tableofcontents}
 ```
