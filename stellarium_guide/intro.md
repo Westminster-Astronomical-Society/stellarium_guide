@@ -1,4 +1,4 @@
-# Stellarium User Guide and Scripting Reference
+# Stellarium User Guide
 
 ```{image} ./_images/cas_color.png
 :alt: Cassiopeia
