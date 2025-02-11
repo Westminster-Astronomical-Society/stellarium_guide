@@ -4,6 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: install
+- file: tour
+- file: customize
+- file: scripting
+- file: appendix-A
+- file: appendix-B
