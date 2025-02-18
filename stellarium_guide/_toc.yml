@@ -5,8 +5,9 @@ format: jb-book
 root: intro
 chapters:
 - file: install
-- file: tour
+- file: navigating
 - file: customize
 - file: scripting
+- file: planetarium
 - file: appendix-A
 - file: appendix-B
