@@ -54,9 +54,7 @@ You can also download the source code from the Stellarium website or Github [htt
 
 ## Initial Setup
 
-When you first launch Stellarium, the default settings will show you the sky as it appears from your location at the current time and date. You can use the arrow keys or left-click and drag to pan around the sky. `Ctrl+up` and `Ctrl+down` to zoom in and out. You can also use `PgUp`, `PgDn` or mouse scroll wheel. `Shift+N, S, E, W, Z` will move to the North, South, East, West, or Zenith. `Ctrl+H` will bring you back to the default view. The `F1` key will open a help dialog with all of the keyboard shortcuts.
-
-At the bottom of the screen is a status bar that shows the current location, date and time, and the field of view. TMoving the mouse pointer to the left bottom of the screen where the status bar is will show a toolbar with tools to show and hide objects, increase the time rate, and other options.
+When you first launch Stellarium, the default settings will show you the sky as it appears from your location at the current time and date. At the bottom of the screen is a status bar that shows the current location, date and time, and the field of view. Moving the mouse pointer to the left bottom of the screen where the status bar is will show a toolbar with tools to show and hide objects, increase the time rate, exit Stellarium, and other options.
 
 ### Location and Time
 
