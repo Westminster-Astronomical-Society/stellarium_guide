@@ -5,17 +5,17 @@
 |                              |                                   |
 |------------------------------|-----------------------------------|
 | Pan view around the sky      | Arrow keys & left mouse drag      |
-| Zoom in/out                  | PgUp/PgDown, Ctrl+Up/Ctrl+Down    |
+| Zoom in/out                  | Touch pad or mouse wheel          |
 | Time dragging                | Ctrl+left mouse drag              |
 | Time scrolling: minutes      | Ctrl+mouse wheel                  |
 | Time scrolling: hours        | Ctrl+Shift+mouse wheel            |
 | Time scrolling: days         | Ctrl+Alt+mouse wheel              |
 | Time scrolling: years        | Ctrl+Alt+Shift+mouse wheel        |
-| Select object                | Left click                        |
-| Clear selection              | Right click                       |
-| Add custom marker            | Shift+left click                  |
-| Delete marker                | Shift+right click                 |
-| Delete all custom markers    | Alt+Shift+right click             |
+| Select object                | Left-click                        |
+| Clear selection              | Right-click                       |
+| Add custom marker            | Shift+left-click                  |
+| Delete marker                | Shift+right-click                 |
+| Delete all custom markers    | Alt+Shift+right-click             |
 
 ## Keyboard shortcuts
 
@@ -130,6 +130,7 @@
 | Look towards Zenith        | Shift+Z             |
 | Set home selected planet   | Ctrl+G              |
 | Track object               | T                   |
+| Zoom in/out                | PgUp/PgDown, Ctrl+Up/Ctrl+Down    |
 | Zoom on selected object    | /                   |
 | Zoom out                   | \                   |
 
