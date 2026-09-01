@@ -575,7 +575,7 @@ information on how to customize the appearance of your labels.
 // This example demonstrates how to use the LabelMgr module.
 
 // add a label to Polaris
-var label1 = LabelMgr.labelObject("Polaris", visible=false,
+var label1 = LabelMgr.labelObject("Polaris", "Polaris", visible=false,
                                  fontSize = 18, fontColor = "#4444ff");
 LabelMgr.setLabelShow(label1, true);
 core.wait(5);
