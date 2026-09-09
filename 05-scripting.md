@@ -324,7 +324,7 @@ You can set the date and time in your script using the `core.setDate` function. 
 core.setDate("2026-05-01T00:00:00", spec = "local");
 ```
 
-Dates can be specified in UTC, local time, or sidereal time by changing the `spec` argument to "utc" or "local". UTC is the default. You can use `setDate("now")` to set the date and time to the current date and time. Relative dates and times can also be specified using the `+` and `-` operators, for example:
+Dates can be specified in UTC or local time by changing the `spec` argument to "utc" or "local". UTC is the default. You can use `setDate("now")` to set the date and time to the current date and time. Relative dates and times can also be specified using the `+` and `-` operators, for example:
 
 ```javascript
 core.setDate("-1hour"); // subtract one hour from the date and time
