@@ -34,6 +34,11 @@ function pauseKey(label = true) {
 };
 ```
 
+```{note}
+There is now a pause function available in core module called `waitForKeypress()`. This can be used as a simpler alternative to the `pauseKey()` function above. It takes a label string as an argument to override the default message ("Press key to continue..."). An empty string will remove the message entirely.
+```
+
+
 ### Fast Forward Time
 
 This function allows you to fast forward time at a specified rate, wait until a
